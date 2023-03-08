@@ -32,4 +32,4 @@ SELECT * FROM tb_produtos WHERE valor > 500;
 SELECT * FROM tb_produtos WHERE valor < 500;
 
 -- Ao término atualize um registro desta tabela através de uma query de atualização. --
-UPDATE tb_produtos SET valor = 92.50 WHERE id = "6";
+UPDATE tb_produtos SET valor = 92.60 WHERE id = 6;
